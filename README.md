@@ -5,6 +5,6 @@
 <h2> My IT projects:</h2>
 - .[Active Directory integrated with DNS IN Azure cloud].(https://github.com/jen-IT/active-drectory-dns)
 - .[Virtual machines Networking in Azure cloud].(https://github.com/jen-IT/vms-networking-azure)
-- .[Virtual Private Network].(https://github.com/jen-IT/vpn-azure-cloud
+- .[Virtual Private Network].(https://github.com/jen-IT/vpn-azure-cloud)
 .
 -->
